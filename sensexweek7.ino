@@ -16,12 +16,12 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "j0wcjOdQslpPTdyJFckVZk_gKHbybgnq";
+char auth[] = "your blynk ID";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "kluis";
-char pass[] = "485454085";
+char ssid[] = "your wifi";
+char pass[] = "your password";
 
 BlynkTimer timer;
 
