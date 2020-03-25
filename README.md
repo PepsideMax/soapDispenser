@@ -17,3 +17,4 @@ needed for this project:
 
 Now just connect everything like shown in the includded schematic (made using ealge). Most of the pins are just chosen at random so you dont realy have to worry if you want to use different ones.  
 
+Then in the code itsellf you have to change you auth to your given blynk autentication code and ssid as wel as pass to your WIFI network name  and password respectivly.
