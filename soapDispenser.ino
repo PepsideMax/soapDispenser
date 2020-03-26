@@ -1,4 +1,3 @@
-//https://nl.aliexpress.com/item/33013657307.html?spm=a2g0s.9042311.0.0.27424c4dPyZ2EW
 
 #include <arduino.h>
 #define BLYNK_PRINT Serial
