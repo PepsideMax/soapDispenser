@@ -1,7 +1,7 @@
 # soapDispenser
 Making a touchless soap dispenser usring an esp32 and blynk cloud.
 
-So this project started out as a reminder to myself because  often after sneezing I forget to wash my hands. So I installed a simple microphone module on a esp32 so just give me a reminder for when I do sneeze. after a while it just got teadeus so i thougth well why not just add a soap dispenser to the project to make my life easyer I still had a sharp 2Y0A21 and just had to order a small pump online while I was still waiting on this pump I could already test using a small fan instead. 
+So this project started out as a reminder to myself because  often after sneezing I forget to wash my hands. So I installed a simple microphone module on a esp32 so just give me a reminder for when I do sneeze. after a while it just got tedious so i thougth well why not just add a soap dispenser to the project to make my life easyer I still had a sharp 2Y0A21 and just had to order a small pump online while I was still waiting on this pump I could already test using a small fan instead. 
 
 needed for this project:
 1 x esp32 (you could use any arduino controller i just used the esp because i wanted to use blynk to keep expanding the project)
